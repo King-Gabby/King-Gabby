@@ -107,7 +107,7 @@ Computer Science student at the University of Ibadan building AI systems for hea
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Gabby&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://herokuapp.com" alt="Gabriel's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Gabby&layout=compact&theme=tokyonight" alt="Top Languages" />
