@@ -61,7 +61,7 @@ Computer Science student at the University of Ibadan building AI systems for hea
 *Automatic Number Plate Recognition System.*
 
 ![ANPR UI Mockup](assets/anpr_mockup.png)
-![ANPR UI Mockup](assets/anpr_mockup2-1.png)
+![ANPR UI Mockup](assets/anpr_mockup2.png)
 
 #### Highlights
 * **Vehicle & Plate Detection:** Modular dual-model computer vision pipeline optimized for accuracy.
