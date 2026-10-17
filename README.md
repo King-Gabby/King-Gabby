@@ -35,7 +35,7 @@ Computer Science student at the University of Ibadan building AI systems for hea
 
 ## ⚡ Currently Building
 * 🩸 **PlasmoID AI:** Clinical AI Assistant for Malaria Microscopy (optimizing CPU inference).
-* 🚗 **CelesTium ANPR:** Automatic Number Plate Recognition System (modular vision pipeline).
+* 🚗 **IntelliCT:** ANPR & Intelligent Transportation System (modular vision pipeline).
 * 🛰️ **Researching:** RF-DETR architectures, aerial computer vision, and low-resource medical segmentation.
 * 🧠 **Learning:** PyTorch internals, custom neural network layers, and MLOps deployment pipelines.
 
@@ -57,7 +57,7 @@ Computer Science student at the University of Ibadan building AI systems for hea
 
 ---
 
-### 🚗 CelesTium ANPR
+### 🚗 IntelliCT
 *Automatic Number Plate Recognition System.*
 
 ![ANPR UI Mockup](assets/anpr_mockup.png)
@@ -119,4 +119,4 @@ Computer Science student at the University of Ibadan building AI systems for hea
 * **Email:** [gabbywrld066@gmail.com](mailto:gabbywrld066@gmail.com)
 * **LinkedIn:** [/in/gabriel-akoleaje](https://linkedin.com/in/gabriel-akoleaje)
 * **Twitter (X):** [@Celes_TiumAI](https://twitter.com/Celes_TiumAI)
-* **Portfolio:** [celestiumai.vercel.app](https://celestiumai.vercel.app)
+* **Portfolio:** [celestiumai.vercel.app](https://celestium-ai.vercel.app)
